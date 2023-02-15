@@ -1,0 +1,52 @@
+*{
+margin: 0%;
+font-family: 'Work Sans', sans-serif;
+}
+/*-----------------------------Banner-part-------------------- */
+header{
+    background-image: url('../css/css-img/banner/banner1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}
+.banner-title-img{
+    margin: -85px 140px;
+    padding: 320px 52px;
+    text-align: right;
+}
+.header-title{
+margin-bottom: 45px;
+font-size: 65px;
+font-weight: 700;
+line-height: 76px;
+text-align: right;
+}
+.header-discriptio{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #444343;
+    
+}
+.primary-btn{
+    margin: 20px 0px 0px 0px;
+    padding: 15px 30px 15px 30px;
+    background-color: rgb(51, 191, 238);
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+}
+/*-----------------------------Banner-part-complete------------------- */
+/* ------------------------------main-part---------------------------- */
+/*-(left-image-and-right-title-)----------------------------- */
+
+.left-img-part{
+background-image: url();
+}
+.fa-check{
+    color: lightgreen;
+}
