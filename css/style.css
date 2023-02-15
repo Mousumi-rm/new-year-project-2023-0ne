@@ -1,5 +1,6 @@
 *{
-margin: 0%;
+    margin: 0px;
+  
 font-family: 'Work Sans';
 }
 /*-----------------------------Banner-part-------------------- */
@@ -10,7 +11,7 @@ background-repeat: no-repeat;
 margin-bottom: 80px;
 }
 .banner-title-img{
-margin: -85px 140px;
+margin: -114px 140px;
 padding: 320px 52px;
 text-align: right;
 }
