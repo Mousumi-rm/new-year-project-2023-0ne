@@ -147,3 +147,56 @@ border: none;
 border-radius: 5px;
 }
 /*----------------main-Title-and-gradient-part-start-End----------------------*/
+/*--------------------------------------footer-section-start------------------*/
+footer{
+padding: 150px 10px 200px 10px;    
+background-color: black;
+}
+.footer-section{
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+color: #ffff;
+}
+.future-title{
+margin-bottom: 20px;    
+font-weight: 700;
+font-size: 30px;
+line-height: 20px;
+}
+.future-description-tag{
+margin-bottom: 20px;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+}
+.future-p-tag{
+margin-bottom: 20px;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+}
+.future-social-icon{
+    margin-left: 10px;
+}
+/* Subscribe-title */
+
+.Subscribe-part{
+margin: 0px;
+padding:10px 10px 10px 10px;
+ }
+.Subscribe-title{
+margin:-110px 0px 50px 0px ;
+font-weight: 600;
+font-size: 18px;
+line-height: 10px;
+}
+.input-email{
+margin-bottom: 10px;
+padding: 15px 110px 15px 40px;
+background-color: black;
+color: #ffff;
+border: 1px solid #FFFFFF;
+border-radius: 8px;
+}
+/*----------------<!----------------------footer-section-End-------------------*/
