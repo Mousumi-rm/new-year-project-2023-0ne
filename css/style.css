@@ -1,18 +1,18 @@
 *{
 margin: 0%;
-font-family: 'Work Sans', sans-serif;
+font-family: 'Work Sans';
 }
 /*-----------------------------Banner-part-------------------- */
 header{
-    background-image: url('../css/css-img/banner/banner1.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-bottom: 20px;
+background-image: url('../css/css-img/banner/banner1.png');
+background-position: center;
+background-repeat: no-repeat;
+margin-bottom: 80px;
 }
 .banner-title-img{
-    margin: -85px 140px;
-    padding: 320px 52px;
-    text-align: right;
+margin: -85px 140px;
+padding: 320px 52px;
+text-align: right;
 }
 .header-title{
 margin-bottom: 45px;
@@ -21,32 +21,64 @@ font-weight: 700;
 line-height: 76px;
 text-align: right;
 }
-.header-discriptio{
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
-    letter-spacing: 0em;
-    text-align: right;
-    color: #444343;
-    
+.header-description{
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: right;
+color: #444343; 
 }
 .primary-btn{
-    margin: 20px 0px 0px 0px;
-    padding: 15px 30px 15px 30px;
-    background-color: rgb(51, 191, 238);
-    color: white;
-    font-size: 16px;
-    font-weight: 700;
-    border: none;
-    border-radius: 5px;
+margin: 20px 0px 0px 0px;
+padding: 15px 30px 15px 30px;
+background-color: rgb(51, 191, 238);
+color: white;
+font-size: 16px;
+font-weight: 700;
+border: none;
+border-radius: 5px;
 }
 /*-----------------------------Banner-part-complete------------------- */
 /* ------------------------------main-part---------------------------- */
 /*-(left-image-and-right-title-)----------------------------- */
-
+.main-img-title{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 200px;
+}
 .left-img-part{
-background-image: url();
+background-image:url('../css/css-img/Ellipse\ 2.png');
+background-repeat: no-repeat;
+background-position: center bottom;
+margin: 10px 0px  0px  0px;
+}
+.left-img{
+margin: 5px 0px 0px 0px;
+padding: 5px 0px 0px 0px;;
+}
+.right-title{
+    margin-top: 140px;
+}
+.the-title{
+margin-bottom: 24px ;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+}
+.subtitle{
+ margin-bottom: 12px;   
+ font-weight: 400;
+ font-size: 16px;
+ line-height: 20px;
+ color: #444343;
 }
 .fa-check{
-    color: lightgreen;
+margin-top: 13px;
+color: lightgreen;  
+font-size: 14px;
+letter-spacing: 0em;
+text-align: left;
+
 }
